@@ -1,0 +1,5 @@
+com\ibm\finance\palink\controller\test\DashboardControllerTest.class
+com\ibm\finance\palink\DashboardServiceApplicationTest.class
+com\ibm\finance\palink\common\utils\test\UtilsTest.class
+com\ibm\finance\palink\service\test\DashboardServiceTest.class
+com\ibm\finance\palink\monitoring\test\BusinessProfilerTest.class

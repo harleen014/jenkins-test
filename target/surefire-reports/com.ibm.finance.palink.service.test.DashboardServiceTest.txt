@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ibm.finance.palink.service.test.DashboardServiceTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.337 sec - in com.ibm.finance.palink.service.test.DashboardServiceTest
